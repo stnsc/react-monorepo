@@ -1,0 +1,49 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Next.js
+.next/
+out/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Build outputs
+dist/
+build/
+
+# Env files
+.env
+.env.local
+.env.development
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Misc
+coverage/
+.svelte-kit/
+
+# Monorepo
+**/node_modules/
+**/.cache/
+**/.turbo/
+
+# MacOS
+*.DS_Store
